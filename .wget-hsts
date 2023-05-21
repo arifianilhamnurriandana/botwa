@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+replit.com	0	0	1684581414	31536000
+www.mediafire.com	0	0	1684581626	0
+repos-droplet.digitalocean.com	0	1	1684632563	15552000

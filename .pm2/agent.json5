@@ -1,0 +1,11 @@
+{
+    "version_management": {
+        "active": true
+    },
+    "public_key": "aeb5fcz6ed0d116",
+    "secret_key": "dqsif4mi3z7depi",
+    "machine_name": "ubuntu-s-4vcpu-8gb-amd-sgp1-01-3db0",
+    "pm2_version": "5.3.0",
+    "reverse_interact": true,
+    "info_node": "https://root.keymetrics.io"
+}
